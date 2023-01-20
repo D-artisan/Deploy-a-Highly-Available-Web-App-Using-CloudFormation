@@ -1,0 +1,3 @@
+./create.sh udagram udagram.yaml server-parameters.json
+
+./update.sh udagram udagram.yaml server-parameters.json
